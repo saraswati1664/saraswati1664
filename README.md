@@ -47,9 +47,9 @@
 
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
-| **[Elegant UI Kit](link)** | Modern component library | Figma, CSS3, HTML5 | [Live Demo](#) |
-| **[Data Visualizer](link)** | Interactive data dashboard | Python, Matplotlib, JS | [View](#) |
-| **[System Optimizer](link)** | C++ performance toolkit | C++20, CMake | [GitHub](#) |
+| **[Villa-Template](villa-template.netlify.app/)** |____ |____ | [Live Demo](#) |
+| **[--](link)** | ___ |____  | [View](#) |
+| **[--](link)** | _____ |____| [-](#) |
 
 </div>
 
