@@ -4,7 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F5AF0&width=435&lines=Coding+with+passion;Designing+with+purpose;Building+for+impact" alt="Typing Animation">
 </p>
 
-📍 **India** | ✉️ [saraswati@example.com](mailto:saraswati@example.com) | 🌐 [Portfolio](https://saras-portfolio-1.netlify.app/)  
+<span>📍 <strong>India</strong></span> 
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saraswati74888@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://saras-portfolio-1.netlify.app/)
+
+  
 
 ---
 
