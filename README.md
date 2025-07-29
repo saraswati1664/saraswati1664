@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F5AF0&width=435&lines=Coding+with+passion;Designing+with+purpose;Building+for+impact" alt="Typing Animation">
 </p>
 
-📍 **India** | ✉️ [saraswati@example.com](mailto:saraswati@example.com) | 🌐 [Portfolio Coming Soon]  
+📍 **India** | ✉️ [saraswati@example.com](mailto:saraswati@example.com) | 🌐 [Portfolio](https://saras-portfolio-1.netlify.app/)  
 
 ---
 
